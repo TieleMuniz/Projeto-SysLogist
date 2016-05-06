@@ -5,6 +5,8 @@
  */
 package projeto.syslogist;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author aluno
@@ -16,6 +18,8 @@ public class ProjetoSysLogist {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+        JOptionPane.showMessageDialog(null, "Testando o Git com Netbeans");
     }
     
 }
